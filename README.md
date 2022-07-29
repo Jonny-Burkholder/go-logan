@@ -1,2 +1,2 @@
-# go-adamantium
-Go language driver for Adamantium database
+# go-logan
+Go language driver for Logan DB
